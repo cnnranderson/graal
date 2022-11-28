@@ -9,6 +9,7 @@ Depending on what you're trying to accomplish, setting up a GServer tends to be 
 
 1. You'll need the following applications to start working on a server
     - [Graal client](https://github.com/cnnranderson/graal/releases/tag/v6.0.3.7-client) - **v6.0.3.7** *(Preferred)*
+      - Make sure to run the client by using `OG_Launcher.exe`. This is required to connect to Graal Reborn servers.
     - [Gs2Emu](https://github.com/cnnranderson/graal/releases/tag/v3.0.6-gs2emu) - *This is the GServer hosting application to expose a local server to the serverlist.*
     - [Remote Control](https://github.com/cnnranderson/graal/releases/tag/v2-rc) - *Otherwise known as RC2/RC3. Either version works, however, v2 has a better track record.*
 2. Create an account using the [Account Creator](https://graalserver.com/accountcreator.php)
