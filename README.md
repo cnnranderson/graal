@@ -9,9 +9,12 @@ Depending on what you're trying to accomplish, setting up a GServer tends to be 
 
 1. You'll need the following applications to start working on a server
     - [Graal client](https://github.com/cnnranderson/graal/releases/tag/v6.0.3.7-client) - **v6.0.3.7** *(Preferred)*
-    - [Gs2Emu](https://github.com/cnnranderson/graal/releases/tag/v3.0.6-gs2emu) - *This is the GServer hosting application to expose a local server to the serverlist*
+    - [Gs2Emu](https://github.com/cnnranderson/graal/releases/tag/v3.0.6-gs2emu) - *This is the GServer hosting application to expose a local server to the serverlist.*
     - [Remote Control](https://github.com/cnnranderson/graal/releases/tag/v2-rc) - *Otherwise known as RC2/RC3. Either version works, however, v2 has a better track record.*
-2. Create an account
+2. Create an account using the [Account Creator](https://graalserver.com/accountcreator.php)
+    - This allows you to login to the Graal Clients.
+    - If you've lost your password, simply create your account again. Profiles are currently broken/unsupported and all that happens is it will overwrite with new credentials so you can login again.
+3. Review the [GServer Setup](/docs/gserver/gserver.md) guide to continue setting up your server!
 
 
 ## Helpful Links
@@ -23,6 +26,6 @@ Depending on what you're trying to accomplish, setting up a GServer tends to be 
 4. [Scripting Resources](/docs/resources/resources.md)
 
 #### Graal Official Links
-1. [Graal Official: Server Options](https://graalonline.net/index.php?title=Server_options)
-2. [Graal Official: Scripting](https://graalonline.net/index.php?title=Creation/Dev/GScript)
-3. [Graal Official: NPC Control](https://graalonline.net/index.php?title=Creation/Dev/Basics_of_NPC-Control)
+1. [Graal Wiki: Server Options](https://graalonline.net/index.php?title=Server_options)
+2. [Graal Wiki: Scripting](https://graalonline.net/index.php?title=Creation/Dev/GScript)
+3. [Graal Wiki: NPC Control](https://graalonline.net/index.php?title=Creation/Dev/Basics_of_NPC-Control)
