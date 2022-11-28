@@ -7,6 +7,13 @@ This repository contains miscellaneous pieces of [Graal Reborn](https://graal.in
 
 Depending on what you're trying to accomplish, setting up a GServer tends to be the first step for most people. If you already have a server, feel free to skip down to some of the quick links and find what you're interested in.
 
+1. You'll need the following applications to start working on a server
+    - Graal client - **v6.0.3.7** *(Preferred)*
+    - Gs2Emu - *This is the GServer hosting application to expose a local server to the serverlist*
+    - Remote Control - *Otherwise known as RC2/RC3. Either version works, however, v2 has a better track record.
+    - **Note: These cannot be hosted here unforutnately, and must be found via external sources to avoid potential legal conflicts. Reach out in the discord for any questions.**
+2. Create an account
+
 
 ## Helpful Links
 
