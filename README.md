@@ -21,7 +21,7 @@ Depending on what you're trying to accomplish, setting up a GServer tends to be 
 ## Helpful Links
 
 #### Graal Reborn Links
-1. [Graal Reborn Discord](https://discord.gg/jqEbHr8wHY)
+1. [Graal Reborn Discord](https://discord.com/invite/nWYHdjR)
 2. [Graal Client](/docs/client/client.md)
 3. [GServer Setup](/docs/gserver/gserver.md)
 4. [Scripting Resources](/docs/resources/resources.md)
